@@ -3,13 +3,12 @@
   "author": {
     "name": "Vilius",
     "email": "vilius.kumparaskas@transcom.com",
-    "url": ""
+    "url": "https://pdi-transcom.zendesk.com/"
   },
   "defaultLocale": "en",
   "private": true,
   "location": {
     "support": {
-      "ticket_sidebar": "assets/iframe.html",
       "ticket_editor": "assets/iframe.html"
     }
   },
