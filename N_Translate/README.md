@@ -6,6 +6,7 @@
 
 * this is the test version of the customised translation app for Zendesk
 * work in progress for new features
+and new changes
 
 
 Please submit bug reports to [Insert Link](). Pull requests are welcome.
